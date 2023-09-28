@@ -1,0 +1,21 @@
+# BOOKI : Trouvez votre hébergement pour des vacances de rêves
+
+Ce projet a été réalisé dans le cadre du troisième projet du parcours Développeur Front-End chez OpenClassrooms. L'objectif principal était d'intégrer une maquette responsive en HTML et CSS.
+
+## Description
+
+L'objectif de ce projet était d'intégrer une maquette responsive en HTML et CSS, en suivant les directives fournies dans le brief de mission. Le site internet résultant permettra aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+
+## Compétences évaluées
+
+Ce projet a permis d'évaluer les compétences suivantes :
+
+- Intégrer du contenu conformément à une maquette avec HTML et CSS.
+- Installer un environnement de développement front-end.
+- Implémenter une interface responsive avec HTML et CSS.
+
+## Brief de mission
+
+> L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+
+> Vous êtes chargé d'intégrer une première version de l'interface du site. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. 
